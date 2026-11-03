@@ -37,6 +37,7 @@ Learning:- PyTorch, FastAPI, Docker, PostgreSQL, Cloud Deployment
 
 
 Contact
+
 LinkedIn - https://www.linkedin.com/in/rudra-raj-karna-a46520312/
 GitHub - https://github.com/Hunter-Rudra
 
