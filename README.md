@@ -4,7 +4,7 @@
 
 I build real-world software and machine learning systems.
 
-##Interests:
+#Interests:
 
   Machine Learning and Statistical Modelling
   Computer Vision and Video Analytics
@@ -13,7 +13,7 @@ I build real-world software and machine learning systems.
   AI-powered Business Automation
 
 
-##Technical Skills
+#Technical Skills
 
   Languages:- Python, SQL
   Data:- Pandas, NumPy, Statistics
@@ -21,7 +21,7 @@ I build real-world software and machine learning systems.
 Learning:- PyTorch, FastAPI, Docker, PostgreSQL, Cloud Deployment
 
 
-##Projects
+#Projects
 
 ### Real Estate Analytics
   Predictive modelling with property valuation.
