@@ -4,7 +4,7 @@
 
 I build real-world software and machine learning systems.
 
-Interests:
+##Interests:
 
   Machine Learning and Statistical Modelling
   Computer Vision and Video Analytics
@@ -13,7 +13,7 @@ Interests:
   AI-powered Business Automation
 
 
-Technical Skills
+##Technical Skills
 
   Languages:- Python, SQL
   Data:- Pandas, NumPy, Statistics
@@ -21,15 +21,15 @@ Technical Skills
 Learning:- PyTorch, FastAPI, Docker, PostgreSQL, Cloud Deployment
 
 
-Projects
+##Projects
 
-# Real Estate Analytics
+### Real Estate Analytics
   Predictive modelling with property valuation.
 
-# Vehicle Intelligence
+### Vehicle Intelligence
   Computer vision project for vehicle identification, tracking and business analytics.
 
-# Data Engineering
+### Data Engineering
   Create reproducible data pipelines.
 
 Contact
