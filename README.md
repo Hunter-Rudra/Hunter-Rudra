@@ -35,7 +35,8 @@ Learning:- PyTorch, FastAPI, Docker, PostgreSQL, Cloud Deployment
   Create reproducible data pipelines.
 
 ### CRM System
-  Follow-ups Alert and Tracking Business based & Personal page based. # development 
+  Follow-ups Alert and Tracking Business based & Personal page based. 
+  # development 
 
 
 ### Contact
