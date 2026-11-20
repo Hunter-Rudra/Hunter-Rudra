@@ -34,9 +34,11 @@ Learning:- PyTorch, FastAPI, Docker, PostgreSQL, Cloud Deployment
 ### Data Engineering
   Create reproducible data pipelines.
 
+ # development
+
 ### CRM System
   Follow-ups Alert and Tracking Business based & Personal page based. 
-  # development 
+
 
 
 ### Contact
